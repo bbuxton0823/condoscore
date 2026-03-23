@@ -2,6 +2,8 @@
 
 A 9-dimension scoring tool that helps buyers find the best condo deals. Search any U.S. market and get instant deal scores based on HOA burden, value gap, school quality, flood risk, and more.
 
+**Live App:** [condoscore.vercel.app](https://condoscore.vercel.app)
+
 ## Screenshots
 
 ### Light Mode
@@ -33,6 +35,10 @@ A 9-dimension scoring tool that helps buyers find the best condo deals. Search a
 | < 30 | Avoid |
 
 ## One-Click Deploy
+
+### Deploy to Vercel (Recommended)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbbuxton0823%2Fcondoscore&project-name=condoscore&framework=other&buildCommand=npm%20run%20build&outputDirectory=dist%2Fpublic&installCommand=npm%20install)
 
 ### Deploy to Railway
 
